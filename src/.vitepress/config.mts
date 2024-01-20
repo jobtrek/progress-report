@@ -5,6 +5,7 @@ export default defineConfig({
   title: "My Progress Report - Toto",
   description: "The training report outlines all the skills acquired during the CFC of computer scientist applications development.",
   cleanUrls: true,
+  lang: 'en',
   base: "/progress-report/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -18,7 +19,6 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
