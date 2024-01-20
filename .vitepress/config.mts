@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Progress Report",
   description: "The training report outlines all the skills acquired during the CFC of computer scientist applications development.",
+  cleanUrls: true,
+  base: "/progress-report/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
