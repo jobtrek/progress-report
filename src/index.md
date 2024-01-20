@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Introduction
-      link: /indroduction
+      link: /introduction
     - theme: alt
       text: Github repo
       link: https://github.com/jobtrek/progress-report
