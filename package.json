@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "A simple vitpress site for training progress report writing",
   "scripts": {
-    "docs:dev": "vitepress dev .",
-    "docs:build": "vitepress build .",
-    "docs:preview": "vitepress preview ."
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
   },
   "devDependencies": {
     "vitepress": "1.0.0-rc.39"
