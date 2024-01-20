@@ -1,10 +1,10 @@
 # How to use
 
-## Using vitpress markown
+## Using VitePress markdown
 
-Vitpress, the tool used to build this site provides many features to make writing markdown easier.
+VitePress, the tool used to build this site provides many features to make writing markdown easier.
 
-Visit [Vitpress markdown extension](https://vitepress.dev/guide/markdown) to discover all possibilites.
+Visit [VitePress markdown extension](https://vitepress.dev/guide/markdown) to discover all possibilities.
 
 ### Some simple examples
 
@@ -24,14 +24,56 @@ Visit [Vitpress markdown extension](https://vitepress.dev/guide/markdown) to dis
 
 **Use code blocks** to demonstrate examples
 
-```md
+````md
 ```js
 function hello() {
   console.log('Hello, World!')
 }
 ```
+````
+
+**Emojis**
+```md
+:smile:
 ```
 
-### Adding assets
+### Custom components
+
+You can use custom components to add more complex content to your markdown files.
+
+**Example of markdown :**
+```md
+::: info
+This is an info box.
+:::
+
+::: tip
+This is a tip.
+:::
+
+::: warning
+This is a warning.
+:::
+```
+**Will output**
+::: info
+This is an info box.
+:::
+
+::: tip
+This is a tip.
+:::
+
+::: warning
+This is a warning.
+:::
+
+See [VitePress markdown extension](https://vitepress.dev/guide/markdown) for more details.
+
+## Adding assets
 
 You can add assets to your markdown files by placing them in the same folder as the markdown file or in a subfolder. Then you can reference them using relative links.
+
+```md
+![My image alt](./image.png)
+```

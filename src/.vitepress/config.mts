@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 const links = [
   { text: 'Languages', items: [
-    { text: 'JavaScript', link: '#'}
+    { text: 'JavaScript', link: '#'},
   ]},
   { text: 'Projects', items: [
     { text: 'Project 1', link: '#'},
@@ -18,6 +18,7 @@ export default defineConfig({
   lang: 'en',
   base: "/progress-report/",
   lastUpdated: true,
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -26,6 +27,7 @@ export default defineConfig({
       { text: 'How to', link: '/how-to-use' }
     ],
 
+    outline: [2,3],
     sidebar: [
       ...links,
       {
