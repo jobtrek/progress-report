@@ -15,11 +15,13 @@ hero:
       link: https://github.com/jobtrek/progress-report
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: My projects
+    details: Diffrent projects I have worked on.
+    link: /projects/rust-todo
+    linkText: See my projects
+  - title: Programming languages
+    details: Programming languages I have worked with.
+    link: /languages/javascript
+    linkText: See learned languages
 ---
 

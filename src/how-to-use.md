@@ -68,6 +68,14 @@ This is a tip.
 This is a warning.
 :::
 
+**Badges**
+```md
+<Badge type="tip" text="Info" />
+````
+
+**Will output**
+<Badge type="tip" text="Info" />
+
 See [VitePress markdown extension](https://vitepress.dev/guide/markdown) for more details.
 
 ## Adding assets
