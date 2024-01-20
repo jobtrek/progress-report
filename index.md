@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "My Progress Report"
-  text: "The training report outlines all the skills acquired during the CFC of computer scientist applications development."
-  tagline: My great project tagline
+  name: "Toto Tutu"
+  text: "Training report"
+  tagline: "The training report outlines all the skills acquired during the CFC of computer scientist applications development."
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Introduction
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github repo
+      link: https://github.com/jobtrek/progress-report
 
 features:
   - title: Feature A
