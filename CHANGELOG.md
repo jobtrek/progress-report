@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.0-rc.0
+
+[compare changes](https://github.com/jobtrek/progress-report/compare/v0.1.1-rc.0...v1.0.0-rc.0)
+
+### 🩹 Fixes
+
+- Broken links and missing introduction page ([cc31070](https://github.com/jobtrek/progress-report/commit/cc31070))
+
+### ❤️ Contributors
+
+- Fuzoh <info@bastiennicoud.ch>
+
 ## v0.1.1-rc.0
 
 
