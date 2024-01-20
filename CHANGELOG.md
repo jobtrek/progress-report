@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.0-rc.1
+
+[compare changes](https://github.com/jobtrek/progress-report/compare/v1.0.0-rc.0...v1.0.0-rc.1)
+
+### 🩹 Fixes
+
+- Typo in introduction link on homepage ([5137747](https://github.com/jobtrek/progress-report/commit/5137747))
+
+### ❤️ Contributors
+
+- Fuzoh <info@bastiennicoud.ch>
+
 ## v1.0.0-rc.0
 
 [compare changes](https://github.com/jobtrek/progress-report/compare/v0.1.1-rc.0...v1.0.0-rc.0)
