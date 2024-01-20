@@ -69,7 +69,7 @@ This is a warning.
 :::
 
 **Badges**
-```md
+```mdx
 <Badge type="tip" text="Info" />
 ````
 

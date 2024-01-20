@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 const links = [
+  { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [
     { text: 'JavaScript', link: '/languages/javascript'},
   ]},
