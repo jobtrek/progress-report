@@ -2,10 +2,10 @@ import { defineConfig } from 'vitepress'
 
 const links = [
   { text: 'Languages', items: [
-    { text: 'JavaScript', link: '#'},
+    { text: 'JavaScript', link: '/languages/javascript'},
   ]},
   { text: 'Projects', items: [
-    { text: 'Project 1', link: '#'},
+    { text: 'Rust todo list', link: '/projects/rust-todo'},
   ]},
 ]
 
