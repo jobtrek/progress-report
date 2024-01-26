@@ -1,6 +1,20 @@
 # Changelog
 
 
+## v1.0.0
+
+[compare changes](https://github.com/jobtrek/progress-report/compare/v1.0.0-rc.1...v1.0.0)
+
+### 📖 Documentation
+
+- Add some details in readme ([c5197e5](https://github.com/jobtrek/progress-report/commit/c5197e5))
+- Precisions for configuration ([24f2c77](https://github.com/jobtrek/progress-report/commit/24f2c77))
+- Add image example ([4ebc596](https://github.com/jobtrek/progress-report/commit/4ebc596))
+
+### ❤️ Contributors
+
+- Fuzoh <info@bastiennicoud.ch>
+
 ## v1.0.0-rc.1
 
 [compare changes](https://github.com/jobtrek/progress-report/compare/v1.0.0-rc.0...v1.0.0-rc.1)
