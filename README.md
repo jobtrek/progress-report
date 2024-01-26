@@ -1,8 +1,10 @@
 # Progress report
 
+**[Changelog](./CHANGELOG.md)**
+
 > This repo is a template repository to create your own progress report in Markdown.
 > The Markdown will be compiled into a static website using [VitePress](https://vitepress.vuejs.org/).
-> The progress report is a requirement for the CFC of computer scientist applications development in Switzerland.
+> Creating a progress report is a requirement for the CFC of computer scientist applications development in Switzerland.
 
 ## How to use
 
@@ -20,6 +22,7 @@
     npm install
     npm run dev
     ```
+5. Then you can make more changes to the Markdown content and see the result in your browser. Don’t forget to check [vitepress Markdown docs](https://vitepress.dev/guide/markdown).
 
 ## How to add your content
 
@@ -28,11 +31,11 @@ You have some default examples in the `src` folder (languages, projects).
 
 You can add images and reference them in your markdown files. You can also add other assets like PDF files.
 
-When you add new pages, you need to add them to the `src/.vitepress/config.mts` file in the `links` constant. See [vitepress documentation](https://vitepress.dev/reference/default-theme-nav#navigation-links) for more details about how to add navigation links.
+When you add new pages, you need to add them to the `src/.vitepress/config.mts` file in the `links` array. See [vitepress documentation](https://vitepress.dev/reference/default-theme-nav#navigation-links) for more details about how to add navigation links.
 
 ## Deployment
 
-Normally, you don't need to deploy your website. It will be automatically deployed by Github Pages when you push your changes to the `main` branch.
+Normally, you don't need to deploy your website. It will be automatically deployed by Github Pages when you push your changes to the `main` branch. (See the Github action in `.github/workflows/deploy.yaml`).
 
 ```bash
 git add .
