@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 
+// Will be displayed in left side bar and navigation
 const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [

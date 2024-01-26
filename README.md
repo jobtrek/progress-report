@@ -15,6 +15,7 @@
         - Change the `base` property to your repository name (if you have set a custom repository name).
         - Change the `title` property with your name or pseudo.
         - Change the `socialLinks`property with your GitHub repository link.
+        - Change the `editLink` with your repository name.
     - In `src/index.md` :
         - Change the `name` property with your name or pseudo.
 4. Install dependencies and run the dev server :
