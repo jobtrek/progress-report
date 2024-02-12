@@ -1,6 +1,25 @@
 # Changelog
 
 
+## [1.0.2](https://github.com/jobtrek/progress-report/compare/v1.0.1...v1.0.2) (2024-02-12)
+
+
+### Miscellaneous Chores
+
+* add dependabot configuration ([fa27b4f](https://github.com/jobtrek/progress-report/commit/fa27b4f42232d2ba8bb43bd637149097f3724be8))
+* bsd licence ([#2](https://github.com/jobtrek/progress-report/issues/2)) ([efd78c4](https://github.com/jobtrek/progress-report/commit/efd78c4caf7016af35620c75654447b8af748906))
+
+
+### Build System
+
+* change action to deploy only on new tags ([1a0f845](https://github.com/jobtrek/progress-report/commit/1a0f8452820c996ecb02f9dd2aa0aee674de4ace))
+* **deps-dev:** bump vitepress from 1.0.0-rc.39 to 1.0.0-rc.42 ([#4](https://github.com/jobtrek/progress-report/issues/4)) ([2f1c4ee](https://github.com/jobtrek/progress-report/commit/2f1c4ee0105c50afa387eb384a40202c4a0ae099))
+
+
+### Continuous Integration
+
+* add release please configuration ([b0e56e4](https://github.com/jobtrek/progress-report/commit/b0e56e4150efc105b70280d03a703dc03132cd5d))
+
 ## v1.0.1
 
 [compare changes](https://github.com/jobtrek/progress-report/compare/v1.0.0...v1.0.1)
@@ -87,4 +106,3 @@
 ### ❤️ Contributors
 
 - Fuzoh <info@bastiennicoud.ch>
-
