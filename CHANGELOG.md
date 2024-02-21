@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.0.3](https://github.com/jobtrek/progress-report/compare/v1.0.2...v1.0.3) (2024-02-21)
+
+
+### Build System
+
+* **deps-dev:** bump vitepress from 1.0.0-rc.42 to 1.0.0-rc.44 ([#6](https://github.com/jobtrek/progress-report/issues/6)) ([85b4b99](https://github.com/jobtrek/progress-report/commit/85b4b99f310cdb25f441101ca7db448dd58372c5))
+
 ## [1.0.2](https://github.com/jobtrek/progress-report/compare/v1.0.1...v1.0.2) (2024-02-12)
 
 
