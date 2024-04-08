@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [1.0.3](https://github.com/jobtrek/progress-report/compare/v1.0.2...v1.0.3) (2024-04-08)
+
+
+### Build System
+
+* **deps-dev:** bump vite from 5.1.3 to 5.2.8 ([#11](https://github.com/jobtrek/progress-report/issues/11)) ([2bc8814](https://github.com/jobtrek/progress-report/commit/2bc8814bdc5d88a109f517a454680b2c597fd479))
+* **deps-dev:** bump vitepress from 1.0.0-rc.42 to 1.0.0-rc.44 ([#6](https://github.com/jobtrek/progress-report/issues/6)) ([85b4b99](https://github.com/jobtrek/progress-report/commit/85b4b99f310cdb25f441101ca7db448dd58372c5))
+* **deps-dev:** bump vitepress from 1.0.0-rc.44 to 1.0.2 ([#10](https://github.com/jobtrek/progress-report/issues/10)) ([4f5f6fc](https://github.com/jobtrek/progress-report/commit/4f5f6fc2bdf993299bf4aafe1014d5a04aae0126))
+
 ## [1.0.2](https://github.com/jobtrek/progress-report/compare/v1.0.1...v1.0.2) (2024-02-12)
 
 
