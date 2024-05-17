@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.0.7](https://github.com/jobtrek/progress-report/compare/v1.0.6...v1.0.7) (2024-05-17)
+
+
+### Miscellaneous Chores
+
+* **deps:** change release-please path to new repo ([#18](https://github.com/jobtrek/progress-report/issues/18)) ([1a8904b](https://github.com/jobtrek/progress-report/commit/1a8904b484ca623514f224505e13767ad3de84d2))
+
 ## [1.0.6](https://github.com/jobtrek/progress-report/compare/v1.0.5...v1.0.6) (2024-05-03)
 
 
