@@ -1,6 +1,6 @@
 {
   "name": "progress-report",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A simple vitpress site for training progress report writing",
   "scripts": {
     "dev": "vitepress dev src",
