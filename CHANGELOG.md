@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [1.0.11](https://github.com/jobtrek/progress-report/compare/v1.0.10...v1.0.11) (2024-06-20)
+
+
+### Build System
+
+* **deps:** bump actions/configure-pages from 4 to 5 ([#29](https://github.com/jobtrek/progress-report/issues/29)) ([8d3c037](https://github.com/jobtrek/progress-report/commit/8d3c03738b382fc43c44a8cd6d64340d62116e9f))
+
+
+### Continuous Integration
+
+* add github-actions to dependabot checks ([#27](https://github.com/jobtrek/progress-report/issues/27)) ([f7a724d](https://github.com/jobtrek/progress-report/commit/f7a724da3d2e79101d380104631f5ca21e30c5a5))
+
 ## [1.0.10](https://github.com/jobtrek/progress-report/compare/v1.0.9...v1.0.10) (2024-06-12)
 
 
