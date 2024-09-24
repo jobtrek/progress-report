@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [1.0.16](https://github.com/jobtrek/progress-report/compare/v1.0.15...v1.0.16) (2024-09-24)
+
+
+### Build System
+
+* **deps-dev:** bump rollup from 4.21.0 to 4.22.4 ([#41](https://github.com/jobtrek/progress-report/issues/41)) ([5aef1d2](https://github.com/jobtrek/progress-report/commit/5aef1d2fd5b29792c68f1558dbff42a3104cb980))
+* **deps-dev:** bump vite from 5.4.1 to 5.4.6 ([#39](https://github.com/jobtrek/progress-report/issues/39)) ([95f6041](https://github.com/jobtrek/progress-report/commit/95f6041796033970a43aa8591854ee1e711dccf1))
+
 ## [1.0.15](https://github.com/jobtrek/progress-report/compare/v1.0.14...v1.0.15) (2024-08-28)
 
 
