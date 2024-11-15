@@ -1,6 +1,6 @@
 # Progress report
 
-**Version 1.0.16 : [Changelog](./CHANGELOG.md)** <!-- x-release-please-version -->
+**Version 1.0.17 : [Changelog](./CHANGELOG.md)** <!-- x-release-please-version -->
 
 > This repo is a template repository to create your own progress report in Markdown.
 > The Markdown will be compiled into a static website using [VitePress](https://vitepress.vuejs.org/).
