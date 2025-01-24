@@ -2,8 +2,6 @@
 import {defineConfig} from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-import relativeLinks from 'astro-relative-links';
-
 // https://astro.build/config
 export default defineConfig({
     site: 'https://jobtrek.github.io/', // TODO: Change to your github url
