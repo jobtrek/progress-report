@@ -25,24 +25,24 @@
     ```
 5. Then you can make more changes to the Markdown content and see the result in your browser. Don’t forget to check [vitepress Markdown docs](https://vitepress.dev/guide/markdown).
 
-## How to add your content
+## How to add content
 
-You can create new markdown files in the `src` folder. You can create subfolders to organise your content.
-You have some default examples in the `src` folder (languages, projects).
+Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
 
-You can add images and reference them in your markdown files. You can also add other assets like PDF files.
+Images can be added to `src/assets/` and embedded in Markdown with a relative link.
 
-When you add new pages, you need to add them to the `src/.vitepress/config.mts` file in the `links` array. See [vitepress documentation](https://vitepress.dev/reference/default-theme-nav#navigation-links) for more details about how to add navigation links.
+Static assets, like favicons, can be placed in the `public/` directory.
 
-## Deployment
+## Commands
 
-Normally, you don't need to deploy your website. It will be automatically deployed by Github Pages when you push your changes to the `main` branch. (See the Github action in `.github/workflows/deploy.yaml`).
+All commands are run from the root of the project, from a terminal:
 
-```bash
-git add .
-git commit -m "My changes"
-git push
-```
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `pnpm install`             | Installs dependencies                            |
+| `pnpm run dev`             | Starts local dev server at `localhost:4321`      |
+| `pnpm run build`           | Build your production site to `./dist/`          |
+| `pnpm run preview`         | Preview your build locally, before deploying     |
+| `pnpm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `pnpm run astro -- --help` | Get help using the Astro CLI                     |
 
-You can access your website at the following address : `https://<your-github-username>.github.io/<your-repository-name>/`.
-> You may need to activate Github Pages in your repository settings and wait a few minutes for the first build to be completed.

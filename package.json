@@ -1,13 +1,18 @@
 {
   "name": "progress-report",
-  "version": "1.0.17",
-  "description": "A simple vitpress site for training progress report writing",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "dev": "vitepress dev src",
-    "build": "vitepress build src",
-    "preview": "vitepress preview src"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "devDependencies": {
-    "vitepress": "1.5.0"
-  }
+  "dependencies": {
+    "@astrojs/starlight": "^0.31.1",
+    "astro": "^5.1.5",
+    "sharp": "^0.32.5"
+  },
+  "packageManager": "pnpm@9.15.3+sha512.1f79bc245a66eb0b07c5d4d83131240774642caaa86ef7d0434ab47c0d16f66b04e21e0c086eb61e62c77efc4d7f7ec071afad3796af64892fae66509173893a"
 }
