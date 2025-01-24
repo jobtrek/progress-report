@@ -1,6 +1,34 @@
 # Changelog
 
 
+## [2.0.0](https://github.com/jobtrek/progress-report/compare/v1.0.17...v2.0.0) (2025-01-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* switched from vitepress to astro starlight
+
+### Features
+
+* starlight example ([001ffa4](https://github.com/jobtrek/progress-report/commit/001ffa4f58f4cb4de00960d50c3d4acc5bc66952))
+* **style:** new theme colors ([fca58c9](https://github.com/jobtrek/progress-report/commit/fca58c992be4422162181a61d18d97fad0f3dc2c))
+* switched from vitepress to astro starlight ([688db2b](https://github.com/jobtrek/progress-report/commit/688db2bb5d1a551d0941de97183872389eac005d))
+
+
+### Bug Fixes
+
+* **config:** remove forgotten unused import ([bedc5c8](https://github.com/jobtrek/progress-report/commit/bedc5c889c83bef60d9541956a2be9d2880f95af))
+
+
+### Miscellaneous Chores
+
+* remove unused dependency ([c638fd6](https://github.com/jobtrek/progress-report/commit/c638fd67d2993c789af3752278f71bab04ad2789))
+
+
+### Build System
+
+* **deps-dev:** bump vite from 5.4.11 to 5.4.14 ([#47](https://github.com/jobtrek/progress-report/issues/47)) ([42826bc](https://github.com/jobtrek/progress-report/commit/42826bcdfb672eed8602e7fef7b1bd8afbe886bb))
+
 ## [1.0.17](https://github.com/jobtrek/progress-report/compare/v1.0.16...v1.0.17) (2024-11-15)
 
 
