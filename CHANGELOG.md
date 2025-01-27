@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [2.0.1](https://github.com/jobtrek/progress-report/compare/v2.0.0...v2.0.1) (2025-01-27)
+
+
+### Miscellaneous Chores
+
+* add idea to gitignore ([#49](https://github.com/jobtrek/progress-report/issues/49)) ([68ebd0b](https://github.com/jobtrek/progress-report/commit/68ebd0bc9d73a20ec3c464d48f0760efaf6e9c99))
+
+
+### Documentation
+
+* finalize readme for new astro setup ([#51](https://github.com/jobtrek/progress-report/issues/51)) ([8e646d8](https://github.com/jobtrek/progress-report/commit/8e646d8a87053db83d0d468c048337f9daaeeafc))
+
 ## [2.0.0](https://github.com/jobtrek/progress-report/compare/v1.0.17...v2.0.0) (2025-01-24)
 
 
