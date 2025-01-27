@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [2.0.2](https://github.com/jobtrek/progress-report/compare/v2.0.1...v2.0.2) (2025-01-27)
+
+
+### Miscellaneous Chores
+
+* untrak vsc in .idea ([#52](https://github.com/jobtrek/progress-report/issues/52)) ([fe6f5fa](https://github.com/jobtrek/progress-report/commit/fe6f5fa696632c4ad94770b15a9a782d30ca4d02))
+
 ## [2.0.1](https://github.com/jobtrek/progress-report/compare/v2.0.0...v2.0.1) (2025-01-27)
 
 
