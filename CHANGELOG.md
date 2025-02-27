@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [2.0.6](https://github.com/jobtrek/progress-report/compare/v2.0.5...v2.0.6) (2025-02-27)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.32.0 to 0.32.1 ([#63](https://github.com/jobtrek/progress-report/issues/63)) ([18b261d](https://github.com/jobtrek/progress-report/commit/18b261de2aaa94b57f8ada9f959f76b1af04b59e))
+
 ## [2.0.5](https://github.com/jobtrek/progress-report/compare/v2.0.4...v2.0.5) (2025-02-17)
 
 
