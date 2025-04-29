@@ -8,9 +8,9 @@ export default defineConfig({
     base: 'progress-report', // TODO: Change to your repo name
     integrations: [starlight({
         title: 'Progress  report',
-        social: {
-            github: 'https://github.com/jobtrek/progress-report', // TODO: Change to your repo url
-        },
+        social: [
+            { icon: 'github', label: 'GitHub', href: 'https://github.com/jobtrek/progress-report' } // TODO: Change to your repo url
+        ],
         editLink: {
             baseUrl: 'https://github.com/jobtrek/progress-report/edit/main/docs/', // TODO: before /edit, change to your repo url
         },
