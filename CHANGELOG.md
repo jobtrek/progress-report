@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [2.0.12](https://github.com/jobtrek/progress-report/compare/v2.0.11...v2.0.12) (2025-04-29)
+
+
+### Bug Fixes
+
+* social icon syntax for astro 0.33 ([#89](https://github.com/jobtrek/progress-report/issues/89)) ([5fe792b](https://github.com/jobtrek/progress-report/commit/5fe792b2a5ce77c8782a8ddd4f68af55785afeb5))
+
 ## [2.0.11](https://github.com/jobtrek/progress-report/compare/v2.0.10...v2.0.11) (2025-04-28)
 
 
