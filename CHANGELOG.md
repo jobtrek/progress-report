@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.13](https://github.com/jobtrek/progress-report/compare/v2.0.12...v2.0.13) (2025-05-08)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.34.1 to 0.34.2 ([#92](https://github.com/jobtrek/progress-report/issues/92)) ([91d84d9](https://github.com/jobtrek/progress-report/commit/91d84d97c57d534c5a0bfe5f3630b486d9808feb))
+* **deps:** bump astro from 5.7.7 to 5.7.10 ([#91](https://github.com/jobtrek/progress-report/issues/91)) ([137e4b3](https://github.com/jobtrek/progress-report/commit/137e4b3a370412e25039fe388ed1d00450e84d15))
+
 ## [2.0.12](https://github.com/jobtrek/progress-report/compare/v2.0.11...v2.0.12) (2025-04-29)
 
 
