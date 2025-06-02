@@ -1,6 +1,102 @@
 # Changelog
 
 
+## [2.0.14](https://github.com/jobtrek/progress-report/compare/v2.0.13...v2.0.14) (2025-05-14)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.34.2 to 0.34.3 ([#95](https://github.com/jobtrek/progress-report/issues/95)) ([9b53de6](https://github.com/jobtrek/progress-report/commit/9b53de6d6e4bc46cee9e97f461583eb7c15c18c6))
+* **deps:** bump astro from 5.7.11 to 5.7.12 ([#94](https://github.com/jobtrek/progress-report/issues/94)) ([e99292c](https://github.com/jobtrek/progress-report/commit/e99292cfd01c26275fd974a3e6c8c6f62d95e6d3))
+
+## [2.0.13](https://github.com/jobtrek/progress-report/compare/v2.0.12...v2.0.13) (2025-05-08)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.34.1 to 0.34.2 ([#92](https://github.com/jobtrek/progress-report/issues/92)) ([91d84d9](https://github.com/jobtrek/progress-report/commit/91d84d97c57d534c5a0bfe5f3630b486d9808feb))
+* **deps:** bump astro from 5.7.7 to 5.7.10 ([#91](https://github.com/jobtrek/progress-report/issues/91)) ([137e4b3](https://github.com/jobtrek/progress-report/commit/137e4b3a370412e25039fe388ed1d00450e84d15))
+
+## [2.0.12](https://github.com/jobtrek/progress-report/compare/v2.0.11...v2.0.12) (2025-04-29)
+
+
+### Bug Fixes
+
+* social icon syntax for astro 0.33 ([#89](https://github.com/jobtrek/progress-report/issues/89)) ([5fe792b](https://github.com/jobtrek/progress-report/commit/5fe792b2a5ce77c8782a8ddd4f68af55785afeb5))
+
+## [2.0.11](https://github.com/jobtrek/progress-report/compare/v2.0.10...v2.0.11) (2025-04-28)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.32.6 to 0.34.1 ([#85](https://github.com/jobtrek/progress-report/issues/85)) ([89ee8a5](https://github.com/jobtrek/progress-report/commit/89ee8a5e6373ee6cf7e4f994e364cadb48053563))
+* **deps:** bump sharp from 0.34.0 to 0.34.1 ([#82](https://github.com/jobtrek/progress-report/issues/82)) ([c548008](https://github.com/jobtrek/progress-report/commit/c548008ccab9253d234944c82596b22819f7d8f4))
+* **deps:** update astro to 5.7.7 ([#88](https://github.com/jobtrek/progress-report/issues/88)) ([5178380](https://github.com/jobtrek/progress-report/commit/5178380642e634e45880fb9dff8c1d53383a7615))
+
+## [2.0.10](https://github.com/jobtrek/progress-report/compare/v2.0.9...v2.0.10) (2025-04-07)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.32.4 to 0.32.5 ([#76](https://github.com/jobtrek/progress-report/issues/76)) ([08d5c6a](https://github.com/jobtrek/progress-report/commit/08d5c6ab081e6038ab4b8d4ffeb1bf4e4be1faa7))
+* **deps:** bump @astrojs/starlight from 0.32.5 to 0.32.6 ([#78](https://github.com/jobtrek/progress-report/issues/78)) ([02a6d00](https://github.com/jobtrek/progress-report/commit/02a6d004cbf44fd3fc0922d8ae5a9bc381766493))
+* **deps:** bump astro from 5.5.4 to 5.5.5 ([#75](https://github.com/jobtrek/progress-report/issues/75)) ([af24ba2](https://github.com/jobtrek/progress-report/commit/af24ba23dae9fb13c073279b567a1886c7021e79))
+* **deps:** bump sharp from 0.33.5 to 0.34.0 ([#79](https://github.com/jobtrek/progress-report/issues/79)) ([206b76d](https://github.com/jobtrek/progress-report/commit/206b76d8b60387a690d5c5044f7e3615d58e589c))
+
+## [2.0.9](https://github.com/jobtrek/progress-report/compare/v2.0.8...v2.0.9) (2025-03-24)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.32.2 to 0.32.4 ([#72](https://github.com/jobtrek/progress-report/issues/72)) ([bef7606](https://github.com/jobtrek/progress-report/commit/bef760644e0c5f6e0247bd99ca5a1980aa8671fb))
+* **deps:** bump astro from 5.4.2 to 5.5.4 ([#73](https://github.com/jobtrek/progress-report/issues/73)) ([ef330bb](https://github.com/jobtrek/progress-report/commit/ef330bbd99a09af610daa573fcce2a1273ef5f00))
+* **deps:** bump withastro/action from 3 to 4 ([#71](https://github.com/jobtrek/progress-report/issues/71)) ([407d418](https://github.com/jobtrek/progress-report/commit/407d418d4b91f4711b6b23ab182d2336cada470a))
+
+## [2.0.8](https://github.com/jobtrek/progress-report/compare/v2.0.7...v2.0.8) (2025-03-12)
+
+
+### Build System
+
+* **deps:** bump astro from 5.4.1 to 5.4.2 ([#68](https://github.com/jobtrek/progress-report/issues/68)) ([f31a850](https://github.com/jobtrek/progress-report/commit/f31a8504361e948e7e3dbeae9c0c9dfe1f2fd610))
+
+## [2.0.7](https://github.com/jobtrek/progress-report/compare/v2.0.6...v2.0.7) (2025-03-04)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.32.1 to 0.32.2 ([#65](https://github.com/jobtrek/progress-report/issues/65)) ([83caaf5](https://github.com/jobtrek/progress-report/commit/83caaf505305b0b6db09bbc8e8249d57940b0712))
+* **deps:** bump astro from 5.3.0 to 5.4.1 ([#66](https://github.com/jobtrek/progress-report/issues/66)) ([95efea3](https://github.com/jobtrek/progress-report/commit/95efea3c8bf05b9b52bae7ce13b2a06642e22b88))
+
+## [2.0.6](https://github.com/jobtrek/progress-report/compare/v2.0.5...v2.0.6) (2025-02-27)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.32.0 to 0.32.1 ([#63](https://github.com/jobtrek/progress-report/issues/63)) ([18b261d](https://github.com/jobtrek/progress-report/commit/18b261de2aaa94b57f8ada9f959f76b1af04b59e))
+
+## [2.0.5](https://github.com/jobtrek/progress-report/compare/v2.0.4...v2.0.5) (2025-02-17)
+
+
+### Build System
+
+* **deps:** bump @astrojs/starlight from 0.31.1 to 0.32.0 ([#60](https://github.com/jobtrek/progress-report/issues/60)) ([bb80b56](https://github.com/jobtrek/progress-report/commit/bb80b5602c5511510f010d8329f5702f16edeb90))
+* **deps:** bump astro from 5.2.5 to 5.3.0 ([#61](https://github.com/jobtrek/progress-report/issues/61)) ([d0a1ae0](https://github.com/jobtrek/progress-report/commit/d0a1ae024d216c719f1e5aaac85153aab8c5d876))
+
+## [2.0.4](https://github.com/jobtrek/progress-report/compare/v2.0.3...v2.0.4) (2025-02-13)
+
+
+### Build System
+
+* **deps:** bump astro from 5.2.3 to 5.2.5 ([#58](https://github.com/jobtrek/progress-report/issues/58)) ([4e001cc](https://github.com/jobtrek/progress-report/commit/4e001cc4bb7599219f4b17a66cd861b1716747ef))
+
+## [2.0.3](https://github.com/jobtrek/progress-report/compare/v2.0.2...v2.0.3) (2025-02-05)
+
+
+### Build System
+
+* **deps:** bump astro from 5.1.9 to 5.2.3 ([#56](https://github.com/jobtrek/progress-report/issues/56)) ([b0d3d63](https://github.com/jobtrek/progress-report/commit/b0d3d63c6d325f03ed1e0edf630feec171359fb8))
+* **deps:** bump sharp from 0.32.6 to 0.33.5 ([#54](https://github.com/jobtrek/progress-report/issues/54)) ([fb80628](https://github.com/jobtrek/progress-report/commit/fb806282ea4b5c51affe798474b05de60d76021d))
+
 ## [2.0.2](https://github.com/jobtrek/progress-report/compare/v2.0.1...v2.0.2) (2025-01-27)
 
 

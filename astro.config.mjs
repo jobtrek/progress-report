@@ -8,9 +8,10 @@ export default defineConfig({
     base: 'dossier-formation', // TODO: Change to your repo name
     integrations: [starlight({
         title: 'Progress  report',
-        social: {
-            github: 'https://github.com/HakiEBIBI/dossier-formation', // TODO: Change to your repo url
-        },
+        social: [
+            { icon: 'github', label: 'GitHub', href: 'https://github.com/jobtrek/progress-report' } // TODO: Change to your repo url
+        ],
+        main
         editLink: {
             baseUrl: 'https://github.com/HakiEBIBI/dossier-formation/edit/main/docs/', // TODO: before /edit, change to your repo url
         },
