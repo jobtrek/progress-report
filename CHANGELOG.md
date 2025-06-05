@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.15](https://github.com/jobtrek/progress-report/compare/v2.0.14...v2.0.15) (2025-06-04)
+
+
+### Build System
+
+* **deps:** bump astro from 5.7.13 to 5.8.1 ([#99](https://github.com/jobtrek/progress-report/issues/99)) ([ac44bd7](https://github.com/jobtrek/progress-report/commit/ac44bd730eeeb24926f93c1bc0d6daf5bbbcaf42))
+* **deps:** bump sharp from 0.34.1 to 0.34.2 ([#98](https://github.com/jobtrek/progress-report/issues/98)) ([0028467](https://github.com/jobtrek/progress-report/commit/0028467170413b3f52b03dd5c301611385b9de0a))
+
 ## [2.0.14](https://github.com/jobtrek/progress-report/compare/v2.0.13...v2.0.14) (2025-05-14)
 
 
