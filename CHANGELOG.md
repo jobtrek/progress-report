@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [2.0.17](https://github.com/jobtrek/progress-report/compare/v2.0.16...v2.0.17) (2025-06-18)
+
+
+### Build System
+
+* **deps:** bump the production-dependencies group with 2 updates ([#107](https://github.com/jobtrek/progress-report/issues/107)) ([9cf9cfb](https://github.com/jobtrek/progress-report/commit/9cf9cfb617896c9c34af261e0cf74bef740d04f4))
+
+
+### Continuous Integration
+
+* add groups for dependabot updates ([efe15df](https://github.com/jobtrek/progress-report/commit/efe15df47b098689b79175e87166f4d1703afafd))
+
 ## [2.0.16](https://github.com/jobtrek/progress-report/compare/v2.0.15...v2.0.16) (2025-06-11)
 
 
