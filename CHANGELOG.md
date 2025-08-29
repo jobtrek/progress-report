@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.24](https://github.com/jobtrek/progress-report/compare/v2.0.23...v2.0.24) (2025-08-29)
+
+
+### Build System
+
+* **deps:** bump actions/checkout from 4 to 5 ([#123](https://github.com/jobtrek/progress-report/issues/123)) ([487f1ab](https://github.com/jobtrek/progress-report/commit/487f1ab6c8768c6040bd191e716e8c9a59f34ec9))
+* **deps:** bump astro in the production-dependencies group ([#122](https://github.com/jobtrek/progress-report/issues/122)) ([e7641d2](https://github.com/jobtrek/progress-report/commit/e7641d2b423431a805817a97e39315ae3c67a97c))
+
 ## [2.0.23](https://github.com/jobtrek/progress-report/compare/v2.0.22...v2.0.23) (2025-08-21)
 
 
