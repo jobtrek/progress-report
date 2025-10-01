@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [2.0.27](https://github.com/jobtrek/progress-report/compare/v2.0.26...v2.0.27) (2025-09-30)
+
+
+### Build System
+
+* **deps:** bump astro in the production-dependencies group ([#130](https://github.com/jobtrek/progress-report/issues/130)) ([6f604ab](https://github.com/jobtrek/progress-report/commit/6f604ab98b537a825d485155c776dc65a07c9d45))
+
 ## [2.0.26](https://github.com/jobtrek/progress-report/compare/v2.0.25...v2.0.26) (2025-09-23)
 
 
