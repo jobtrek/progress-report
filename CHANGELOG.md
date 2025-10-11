@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [2.0.28](https://github.com/jobtrek/progress-report/compare/v2.0.27...v2.0.28) (2025-10-11)
+
+
+### Build System
+
+* **deps:** bump astro from 5.14.1 to 5.14.3 ([#132](https://github.com/jobtrek/progress-report/issues/132)) ([d0b2faa](https://github.com/jobtrek/progress-report/commit/d0b2faa5da405ca41f113f9e351d37b88761d976))
+
 ## [2.0.27](https://github.com/jobtrek/progress-report/compare/v2.0.26...v2.0.27) (2025-09-30)
 
 
