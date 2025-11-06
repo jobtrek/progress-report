@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [2.0.30](https://github.com/jobtrek/progress-report/compare/v2.0.29...v2.0.30) (2025-11-06)
+
+
+### Miscellaneous Chores
+
+* pin actions to sha ([#139](https://github.com/jobtrek/progress-report/issues/139)) ([4097d23](https://github.com/jobtrek/progress-report/commit/4097d23e1ba19f1e1d8704154d492a7b75c50321))
+
+
+### Build System
+
+* **deps:** bump the production-dependencies group with 2 updates ([#136](https://github.com/jobtrek/progress-report/issues/136)) ([546137d](https://github.com/jobtrek/progress-report/commit/546137d0c8bf438f7890de91bb2685a8ff540b28))
+* **deps:** bump withastro/action from 4 to 5 ([#137](https://github.com/jobtrek/progress-report/issues/137)) ([7b52081](https://github.com/jobtrek/progress-report/commit/7b520819ae7efaf8f68e45cd6a6301032512d9a7))
+
 ## [2.0.29](https://github.com/jobtrek/progress-report/compare/v2.0.28...v2.0.29) (2025-10-13)
 
 
