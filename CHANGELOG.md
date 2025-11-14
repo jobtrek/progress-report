@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.31](https://github.com/jobtrek/progress-report/compare/v2.0.30...v2.0.31) (2025-11-14)
+
+
+### Build System
+
+* **deps:** bump astro from 5.14.6 to 5.15.6 ([#141](https://github.com/jobtrek/progress-report/issues/141)) ([39a59b8](https://github.com/jobtrek/progress-report/commit/39a59b8ba19535526a3bc7a26a14e8c33cd4c9b6))
+* **deps:** bump the production-dependencies group across 1 directory with 2 updates ([#143](https://github.com/jobtrek/progress-report/issues/143)) ([4cf211c](https://github.com/jobtrek/progress-report/commit/4cf211cf455c6744e50953a2349a95aaf141b1ec))
+
 ## [2.0.30](https://github.com/jobtrek/progress-report/compare/v2.0.29...v2.0.30) (2025-11-06)
 
 
