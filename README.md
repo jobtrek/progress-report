@@ -1,6 +1,6 @@
 # Progress report
 
-**Version 2.0.35 : [Changelog](./CHANGELOG.md)** <!-- x-release-please-version -->
+**Version 2.0.36 : [Changelog](./CHANGELOG.md)** <!-- x-release-please-version -->
 
 > This repo is a template repository to create your own progress report in Markdown.
 > The Markdown will be compiled into a static website using [Astro stralight template](https://github.com/withastro/starlight).
