@@ -1,6 +1,17 @@
 # Changelog
 
 
+## [2.0.37](https://github.com/jobtrek/progress-report/compare/v2.0.36...v2.0.37) (2026-01-30)
+
+
+### Build System
+
+* **deps:** bump actions/checkout from 6.0.1 to 6.0.2 ([#164](https://github.com/jobtrek/progress-report/issues/164)) ([a581aa4](https://github.com/jobtrek/progress-report/commit/a581aa41d23c07bc20635074e497db1cbf301860))
+* **deps:** bump the production-dependencies group with 2 updates ([#159](https://github.com/jobtrek/progress-report/issues/159)) ([02d4765](https://github.com/jobtrek/progress-report/commit/02d476551582c7f856bf3a52d75ebdb6acf2f362))
+* **deps:** bump the production-dependencies group with 2 updates ([#161](https://github.com/jobtrek/progress-report/issues/161)) ([acd1a9d](https://github.com/jobtrek/progress-report/commit/acd1a9d06af7ccb08e5eec798ca2014eb09cdcf6))
+* **deps:** bump the production-dependencies group with 2 updates ([#163](https://github.com/jobtrek/progress-report/issues/163)) ([6526f7d](https://github.com/jobtrek/progress-report/commit/6526f7d18f5867d08157932fce162c925e1230b2))
+* **deps:** bump withastro/action from 5.0.2 to 5.1.0 ([#162](https://github.com/jobtrek/progress-report/issues/162)) ([e4b2102](https://github.com/jobtrek/progress-report/commit/e4b21025c6b3f3abed5c6e822f4d54c16963157b))
+
 ## [2.0.36](https://github.com/jobtrek/progress-report/compare/v2.0.35...v2.0.36) (2025-12-28)
 
 
