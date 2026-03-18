@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [2.0.43](https://github.com/jobtrek/progress-report/compare/v2.0.42...v2.0.43) (2026-03-18)
+
+
+### Build System
+
+* **deps:** bump the production-dependencies group with 2 updates ([#177](https://github.com/jobtrek/progress-report/issues/177)) ([10e823c](https://github.com/jobtrek/progress-report/commit/10e823cc38b57b45d0e0429e6b15489f98608779))
+
 ## [2.0.42](https://github.com/jobtrek/progress-report/compare/v2.0.41...v2.0.42) (2026-03-12)
 
 
