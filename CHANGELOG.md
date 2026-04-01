@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.45](https://github.com/jobtrek/progress-report/compare/v2.0.44...v2.0.45) (2026-04-01)
+
+
+### Build System
+
+* **deps:** bump actions/deploy-pages from 4.0.5 to 5.0.0 ([#183](https://github.com/jobtrek/progress-report/issues/183)) ([01a5118](https://github.com/jobtrek/progress-report/commit/01a511821b3c4c1204f75fa56fa642296d76b998))
+* **deps:** bump astro in the production-dependencies group ([#182](https://github.com/jobtrek/progress-report/issues/182)) ([edf5b8e](https://github.com/jobtrek/progress-report/commit/edf5b8ed69cd8d432d1937f71aea8a48a1aadb67))
+
 ## [2.0.44](https://github.com/jobtrek/progress-report/compare/v2.0.43...v2.0.44) (2026-03-24)
 
 
