@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.46](https://github.com/jobtrek/progress-report/compare/v2.0.45...v2.0.46) (2026-04-14)
+
+
+### Build System
+
+* **deps:** bump the production-dependencies group across 1 directory with 2 updates ([#187](https://github.com/jobtrek/progress-report/issues/187)) ([905c199](https://github.com/jobtrek/progress-report/commit/905c1998553f6b5aaaf9f6528c1b565d2076de1b))
+* **deps:** bump withastro/action from 6.0.0 to 6.1.0 ([#186](https://github.com/jobtrek/progress-report/issues/186)) ([15c86d4](https://github.com/jobtrek/progress-report/commit/15c86d429d84c7472f3fb508fcb28b0f85a921b9))
+
 ## [2.0.45](https://github.com/jobtrek/progress-report/compare/v2.0.44...v2.0.45) (2026-04-01)
 
 
