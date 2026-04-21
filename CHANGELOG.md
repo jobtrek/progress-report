@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [2.0.47](https://github.com/jobtrek/progress-report/compare/v2.0.46...v2.0.47) (2026-04-21)
+
+
+### Build System
+
+* **deps:** bump astro in the production-dependencies group ([#189](https://github.com/jobtrek/progress-report/issues/189)) ([f5e8a2d](https://github.com/jobtrek/progress-report/commit/f5e8a2d43201306b12d5a098d3e05e8f7a3fa982))
+* **deps:** bump googleapis/release-please-action from 4.4.0 to 4.4.1 ([#191](https://github.com/jobtrek/progress-report/issues/191)) ([892369d](https://github.com/jobtrek/progress-report/commit/892369d30747e40630248e3de376f1fee0dbb257))
+* **deps:** bump withastro/action from 6.1.0 to 6.1.1 ([#190](https://github.com/jobtrek/progress-report/issues/190)) ([48a1ba1](https://github.com/jobtrek/progress-report/commit/48a1ba1db4518dbd703c3d8a9e80826751bd5bf2))
+
 ## [2.0.46](https://github.com/jobtrek/progress-report/compare/v2.0.45...v2.0.46) (2026-04-14)
 
 
