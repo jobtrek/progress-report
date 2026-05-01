@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [2.0.48](https://github.com/jobtrek/progress-report/compare/v2.0.47...v2.0.48) (2026-05-01)
+
+
+### Miscellaneous Chores
+
+* release please include author ([9d65dd3](https://github.com/jobtrek/progress-report/commit/9d65dd3b9f8b7d1194e6b4fe9c1f47848fbc36d4))
+
+
+### Build System
+
+* **deps:** bump googleapis/release-please-action from 4.4.1 to 5.0.0 ([#194](https://github.com/jobtrek/progress-report/issues/194)) ([aed9913](https://github.com/jobtrek/progress-report/commit/aed9913ea02054a7e095f769477a1a65f46adb4f))
+* **deps:** bump the production-dependencies group with 2 updates ([#193](https://github.com/jobtrek/progress-report/issues/193)) ([e8ea1c1](https://github.com/jobtrek/progress-report/commit/e8ea1c11c5b7c5e38809e3198453defc39d096db))
+
 ## [2.0.47](https://github.com/jobtrek/progress-report/compare/v2.0.46...v2.0.47) (2026-04-21)
 
 
