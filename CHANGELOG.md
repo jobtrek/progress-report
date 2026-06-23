@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.52](https://github.com/jobtrek/progress-report/compare/v2.0.51...v2.0.52) (2026-06-23)
+
+
+### Build System
+
+* **deps:** bump actions/checkout from 6.0.3 to 7.0.0 ([#207](https://github.com/jobtrek/progress-report/issues/207)) ([16a245b](https://github.com/jobtrek/progress-report/commit/16a245baea206ec6812b24a8d2e9148f1688ab4c))
+* **deps:** bump the production-dependencies group with 2 updates ([#208](https://github.com/jobtrek/progress-report/issues/208)) ([11bc0e3](https://github.com/jobtrek/progress-report/commit/11bc0e3140becd7d43a849f55c48835d94858f4f))
+
 ## [2.0.51](https://github.com/jobtrek/progress-report/compare/v2.0.50...v2.0.51) (2026-06-18)
 
 
