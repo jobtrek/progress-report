@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [2.0.55](https://github.com/jobtrek/progress-report/compare/v2.0.54...v2.0.55) (2026-09-18)
+
+
+### Build System
+
+* **deps:** bump actions/deploy-pages from 5.0.0 to 5.0.1 ([#222](https://github.com/jobtrek/progress-report/issues/222)) ([9d63794](https://github.com/jobtrek/progress-report/commit/9d6379425123a9386adbb049aa694f010af675a0))
+* **deps:** bump the production-dependencies group with 2 updates ([#223](https://github.com/jobtrek/progress-report/issues/223)) ([f6ba2fb](https://github.com/jobtrek/progress-report/commit/f6ba2fbc9efc1b2ab1d1b19ca257a216ed14dbf2))
+* **deps:** bump the production-dependencies group with 3 updates ([#220](https://github.com/jobtrek/progress-report/issues/220)) ([3b0dd2a](https://github.com/jobtrek/progress-report/commit/3b0dd2af6914df54e56c2ee9c588675d3b3a405a))
+
 ## [2.0.54](https://github.com/jobtrek/progress-report/compare/v2.0.53...v2.0.54) (2026-08-28)
 
 
