@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [2.0.59](https://github.com/jobtrek/progress-report/compare/v2.0.58...v2.0.59) (2026-11-16)
+
+
+### Build System
+
+* **deps:** bump astro from 7.4.4 to 7.4.7 ([#234](https://github.com/jobtrek/progress-report/issues/234)) ([056c959](https://github.com/jobtrek/progress-report/commit/056c9590fcc2d21a23f5dc82c8783a028b54234b))
+* **deps:** bump the production-dependencies group across 1 directory with 2 updates ([#233](https://github.com/jobtrek/progress-report/issues/233)) ([07d0877](https://github.com/jobtrek/progress-report/commit/07d0877826601229951cb5f13c81921d4c5e5b9e))
+
 ## [2.0.58](https://github.com/jobtrek/progress-report/compare/v2.0.57...v2.0.58) (2026-11-03)
 
 
